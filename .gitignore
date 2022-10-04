@@ -1,4 +1,5 @@
 videos/
 images/
+output/
 payload.json
 .venv/
