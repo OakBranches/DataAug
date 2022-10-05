@@ -3,3 +3,5 @@ images/
 output/
 payload.json
 .venv/
+__pycache__/
+*.pyc
